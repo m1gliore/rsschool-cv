@@ -1,2 +1,2 @@
 
-https://m1gliore.github.io/rsschool-cv/cv
+https://m1gliore.github.io/rsschool-cv/
